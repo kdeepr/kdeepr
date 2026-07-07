@@ -1,4 +1,4 @@
-# Hi, I'm Kuladeep Roy 👋
+<h1 align="center">Hi, I'm Kuladeep Roy 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Data+Analyst+%7C+BI+Developer;Python+%7C+R+%7C+SQL+%7C+Power+BI;AI+Chatbot+Builder+(n8n+%2B+Gemini);Mechanical+Eng+%E2%86%92+Data+Science)](https://git.io/typing-svg)
 
