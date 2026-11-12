@@ -52,14 +52,16 @@
 ![Git](https://img.shields.io/badge/Git-242a35?style=flat-square&logo=git&logoColor=00B894)
 ![Quarto](https://img.shields.io/badge/Quarto-242a35?style=flat-square&logo=quarto&logoColor=00B894)
 
----
 
 ## Certifications
 
 | Badge | Certification | Issuer | Date |
 |---|---|---|---|
-| ![AWS](https://img.shields.io/badge/Cloud_Practitioner-242a35?style=flat-square&logo=amazonwebservices&logoColor=00B894) | AWS Certified Cloud Practitioner | Amazon Web Services | YOUR_DATE_HERE |
-
+| ![Google Analytics](https://img.shields.io/badge/Google_Analytics-242a35?style=flat-square&logo=googleanalytics&logoColor=E37400) | Google Analytics Certification | Google | AUG 26 |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-242a35?style=flat-square&logo=googlecloud&logoColor=4285F4) | Introduction to Data Analytics on Google Cloud | Google | JUN 26 |
+| ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-242a35?style=flat-square&logo=datacamp&logoColor=03EF62) | Data Warehousing Concepts | DataCamp | DEC 24 |
+| ![SQL & Joins](https://img.shields.io/badge/SQL_%26_Joins-242a35?style=flat-square&logo=datacamp&logoColor=03EF62) | Intermediate SQL & Joining Data in SQL | DataCamp | OCT 24 |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-242a35?style=flat-square&labelColor=FF9900) | AWS Certified Cloud Practitioner | Amazon Web Services | DEC 23 |
 ---
 
 ## Featured Projects
