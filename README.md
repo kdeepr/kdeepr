@@ -87,9 +87,13 @@
 
 ## Highlights
 
-- 📈 **Kaggle Soil Moisture Challenge** — 0.00033 RMSE with a custom seasonal-offset ensemble and recursive 93-day forecasting
+- 🌍 **Data Analytics & Research Intern at International Sibling Society**: analyzing UN SDG 12 data on US consumption vs economic growth; presented findings at the ISS General Assembly
+- 📉 **SDG 12 decoupling study**: showed the US cuts material use at home (−0.19 elasticity) while its import-inclusive footprint still grows with income (+0.25)
+- 📊 **Marketing propensity model**: 0.813 ROC-AUC, leakage-free, on a real bank telemarketing campaign, with SQL reporting and a Power BI dashboard
+- 🇮🇳 **[Live dashboard](https://india-students-dashboard.vercel.app)** of 363,019 Indian students in US higher ed; every figure is sourced from Open Doors and SEVIS
 - 🤖 Built and deployed a **production AI chatbot** for GVSU's Language Resource Center (n8n + Gemini 2.5 + Google Sheets)
-- ☁️ **AWS Certified Cloud Practitioner**
+- 📈 **Kaggle Soil Moisture Challenge**: 0.00033 RMSE with a custom seasonal-offset ensemble and recursive 93-day forecasting
+- ☁️ **Certified:** AWS Cloud Practitioner · Google Analytics · Google Cloud Data Analytics
 
 ---
 
