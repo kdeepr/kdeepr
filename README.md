@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kuladeep Roy 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Data+Analyst+%7C+BI+Developer;Python+%7C+R+%7C+SQL+%7C+Power+BI;AI+Chatbot+Builder+(n8n+%2B+Gemini);Mechanical+Eng+%E2%86%92+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&size=22&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Marketing+Analyst+%7C+Data+Scientist+%7C+ML+Engineer;Data+Analyst+%7C+BI+Developer;Python+%7C+R+%7C+SQL+%7C+Power+BI;AI+Chatbot+Builder+(n8n+%2B+Gemini);Mechanical+Eng+%E2%86%92+Data+Science)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00B894?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_VERCEL_URL_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00B894?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuladeep-roy-813854210)
