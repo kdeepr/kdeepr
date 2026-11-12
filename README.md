@@ -68,11 +68,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Marketing-Analytics](https://github.com/kdeepr/marketing-analytics) | End-to-end pipeline on a real bank telemarketing campaign: leakage-aware feature engineering, a propensity-to-subscribe model (0.813 ROC-AUC), SQL campaign reporting, and a Power BI dashboard. Prior engagement predicts 65% vs 9% conversion | Python · scikit-learn · SQL · R · Power BI |
+| [SDG12-US-Decoupling](https://github.com/kdeepr/sdg12-us-decoupling) | International Sibling Society internship project on UN SDG 12.2. Log-log elasticity regressions with an AIC-selected 2008 structural break and Newey-West errors show the US decouples at home (−0.19) but not once imports are counted (+0.25) | Python · SQL · statsmodels · Power BI |
 | [Soil-Moisture-Predictive-Modeling](https://github.com/kdeepr/Soil-Moisture-Predictive-Modeling-Kaggle) | 93-day recursive time-series forecast using delta modeling and an inverse-RMSE weighted 5-model ensemble (Ridge, RF, Extra Trees, GB, LightGBM) with TimeSeriesSplit validation | Python · scikit-learn · LightGBM |
 | [AI-Powered-Image-Retrieval](https://github.com/kdeepr/AI-Powered-Image-Retrieval-Vector-Database) | Content-based image search over 2,020 images — fine-tuned ResNet18 embeddings + FAISS vector database for millisecond retrieval via a Streamlit app | PyTorch · FAISS · Streamlit |
 | [Predicting-K-12-Success](https://github.com/kdeepr/Predicting-k-12-Success-using-generalized-linear-models) | Logistic, LASSO, LDA, Poisson & multinomial GLMs on 15,500-student DoE survey data quantifying how school choice and family engagement predict success (ROC-AUC > 0.70) | R · tidymodels · GLM |
 | [US-Gun-Violence-Analysis](https://github.com/kdeepr/US-gun-violence-data-analysis-in-R) | Statistical analysis of 2014–2023 incidents merged with Census data — permutation testing, bootstrap CIs, and interactive Leaflet mapping | R · Quarto · tidyverse |
-
 ---
 
 ## GitHub Stats
